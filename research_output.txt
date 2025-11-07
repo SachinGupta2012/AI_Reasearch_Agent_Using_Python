@@ -1,0 +1,16 @@
+--- Research Output ---
+Timestamp: 2025-11-07 06:02:05
+
+{
+  "topic": "Narendra Modi",
+  "summary": "Narendra Damodardas Modi, born on September 17, 1950, in Vadnagar, Gujarat, is an Indian politician who has served as the Prime Minister of India since May 2014. He is a member of the Bharatiya Janata Party (BJP) and is known for his Hindu nationalist policies and various economic reforms, which have sparked controversy both within India and internationally. His remarkable journey from a tea seller to the leader of the world's largest democracy highlights his significant impact on Indian politics.",
+  "sources": [
+    "Wikipedia: Narendra Modi",
+    "Biography of Narendra Modi from various news sources"
+  ],
+  "tools_used": [
+    "wikipedia",
+    "search"
+  ]
+}
+
